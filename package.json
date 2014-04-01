@@ -1,0 +1,21 @@
+{
+    "name": "NoFF",
+    "description": "Say no to Mozillas CEO Brendan Eich with this handy pure-js plugin",
+    "version": "1.0.0",
+    "homepage": "",
+    "author": "William Kasel <wkasel@gmail.com> | @wkasel",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wkasel/noff-js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/wkasel/noff-js/issues"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib": "~0.8.0",
+        "grunt-contrib-uglify": "~0.2.5",
+        "grunt-contrib-coffee": "~0.7.0"
+    },
+    "engine": "node 0.8"
+}
