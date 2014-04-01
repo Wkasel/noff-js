@@ -8,6 +8,10 @@ Easy squeeze lemon peezy:
   
   `<script src="path/to/js/noff.js"></script>`
 
+or a hosted version, (this isn't best practice due to the mime-type, but... eh...)
+
+  `<script src="https://raw.githubusercontent.com/Wkasel/noff-js/master/dist/noff.js"></script>`
+
 or if you prefer to build from scratch:
 
 _On first install_
